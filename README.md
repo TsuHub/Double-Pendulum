@@ -1,2 +1,3 @@
 # Double Pendulum
-  It's how physics works.
+
+You will need to download IDE processing.
